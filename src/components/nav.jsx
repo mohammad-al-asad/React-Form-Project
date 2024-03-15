@@ -8,9 +8,9 @@ const Nav = () => {
       </div>
       <div>
         <ul>
-            <li className={styles.active}>Home</li>
+            <li>Home</li>
             <li>About</li>
-            <li>Contact</li>
+            <li className={styles.active}>Contact</li>
         </ul>
       </div>
     </div>
