@@ -36,7 +36,7 @@ export default function App() {
         </div>
 
         <div className="img">
-          <img src="/images/Service 24_7-pana 1.png" alt="Body" />
+          <img src="./public/images/Service 24_7-pana 1.png" alt="Body" />
         </div>
       </div>
     </div>
